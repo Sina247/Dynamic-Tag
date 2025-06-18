@@ -10,4 +10,4 @@ A sleek and intuitive web app for generating and customizing dynamic HTML tags i
 - ⚙️ **Real-Time Updates** : Modify tag attributes and see changes immediately.  
 - 📱 **Fully Responsive** : Works flawlessly on desktops, tablets, and phones.  
 - 🧠 **Educational Tool** : Great for learning HTML tag structures and attributes.  
-- 🧩 **Lightweight Codebase** : Built with pure HTML, CSS, and JavaScript – no frameworks. 
+- 🧩 **Lightweight Codebase** : Built with pure HTML, CSS, and JavaScript - no frameworks. 
