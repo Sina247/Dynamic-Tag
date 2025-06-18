@@ -1,4 +1,4 @@
-# 🏷️ Dynamic-Tag Web App
+# 🏷️ Dynamic Tag
 
 A sleek and intuitive web app for generating and customizing dynamic HTML tags in real-time. Built with HTML, CSS, and JavaScript, **Dynamic-Tag** offers a smooth and interactive experience, ideal for developers, learners, and frontend enthusiasts looking to experiment with tag structures in a visual way.
 
